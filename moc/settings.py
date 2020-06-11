@@ -25,7 +25,7 @@ SECRET_KEY = 'n_%jmhe=56i)st55+@gt*-#%++nrnc542u%db3x14588n%rdv@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['basicitemaider.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['basicaiding.herokuapp.com','127.0.0.1']
 
 
 # Application definition
